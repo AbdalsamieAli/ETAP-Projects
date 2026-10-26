@@ -23,8 +23,3 @@ This project demonstrates electrical power system modeling and short-circuit ana
 * Falow this link whare I hand calculate this results using MVA Method.
 <a href="https://abdalsamieali.github.io/posts/no12.html">MVA Method</a>
 <img src='Screenshots/symatrical_fault.png'>
-
-
-* Falow this link whare I hand calculate this results using per unit and symmatrical components.
-<a href="https://abdalsamieali.github.io/posts/no14.html">Single Line to Ground Fault</a>
-<img src='Screenshots/unsymatrical_fault.png'>
