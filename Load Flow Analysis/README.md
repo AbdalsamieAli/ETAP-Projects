@@ -10,8 +10,8 @@ This project demonstrates electrical power system modeling and load flow analysi
 ## Project Contents
 
 * ETAP Project/ - Original project files.
-* Results/ - Exported reports and calculations.
-* Screenshots/ - Network diagrams and simulation results.
+    - Results/ - Exported reports and calculations.
+    - Screenshots/ - Network diagrams and simulation results.
 
 ## Software 
 
@@ -19,4 +19,4 @@ This project demonstrates electrical power system modeling and load flow analysi
 
 --
 
-<img src='Screenshots/Screenshot.png'>
+<img src='ETAP Project/Screenshots/Screenshot.png'>
