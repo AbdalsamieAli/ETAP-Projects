@@ -12,7 +12,6 @@ This project demonstrates electrical power system modeling and short-circuit ana
 
 * Screenshots/ - Network diagrams and simulation results.
 * Results/ - Exported reports and calculations.
-* ETAP Project/ - Original project files.
 
 ## Software  
 
