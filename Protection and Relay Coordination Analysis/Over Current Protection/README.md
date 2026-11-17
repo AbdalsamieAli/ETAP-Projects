@@ -11,9 +11,10 @@ In this project, Idesigned and tested comprehensive protection scheme using Siem
 
 * ETAP 19
 
-<video controls src='./Screenshots/overcurrentcoordination.mp4'></video>
 
 ## Experimental Setup:
+
+<img src='./Screenshots/oneline.png'>
 
  * Transformer & Busbar Protection:
 Implemented Differential Protection (87T/87B) using the Siemens 7UT633/635 relay.
